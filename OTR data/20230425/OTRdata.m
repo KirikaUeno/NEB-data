@@ -1,0 +1,53 @@
+%%0.5nC  112degree file start with 0 not 1 focus 25mm detector pos 28mm
+%%parabolic 28.0418
+%1 1180
+%2 1361
+%3 1576
+%4 770
+%5 clear
+%6 apertured
+%%0.3nC  130degree
+%7 1180
+%8 1361
+%9 1576
+%10 770
+%11 clear
+%%0.2nC  140degree
+%12 1180
+%13 1361
+%14 1576
+%15 770
+%16 clear
+%%0.65nC  100degree
+%17 1180
+%18 1361
+%19 1576
+%20 770
+%21 clear
+%%0.85nC  80degree
+%22 1180
+%23 1361
+%24 1576
+%25 770
+%26 clear
+%%1.05nC  60degree
+%27 1180
+%28 1361
+%29 1576
+%30 770
+%31 clear
+%%1.2nC  0degree
+%32 1180
+%33 1361
+%34 1576
+%36 770
+%37 clear
+%%0.5nC  112degree
+%38 1180
+%39 1361
+%40 1576
+%41 770
+%42 clear
+%save OTR image with shutter off
+%save OTR image with shutter on
+%43 clear shutter off
